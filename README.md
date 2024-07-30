@@ -18,7 +18,7 @@
 Committed to continuous learning and contributing to web
 development projects 👨‍💻
 
-<a href="https://coiper.github.io/portfolio/Ananev-Ilia_CV_EN.pdf"><img src="https://img.shields.io/badge/My%20experiences%20CV-blue" alt="Email"></img></a>
+<a href="https://coiper.github.io/portfolio/Ananev-Ilia_CV_EN.pdf"><img src="https://img.shields.io/badge/My%20up%20to%20date%20CV-blue" alt="Email"></img></a>
 
 ### Languages & Tools
 
