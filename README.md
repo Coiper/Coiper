@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hi there, I'm Ilia 🖐️</h1>
-<h3>Front-end developer</h3>
+<h3>Developer</h3>
 <a href="https://www.linkedin.com/in/ananevilia/"><img src="https://img.shields.io/badge/LinkedIn-grey?style=for-the-badge&logo=linkedin" alt="LinkedIn"></img></a>
 <a href="https://t.me/ananevilia"><img src="https://img.shields.io/badge/Telegram-grey?style=for-the-badge&logo=telegram" alt="Telegram"></img></a>
 <a href="https://elliotcoiper@gmail.com/"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail" alt="Email"></img></a>
@@ -8,7 +8,7 @@
 
 ### About me
 
-- Self-taught Front-End Developer
+- Self-taught Developer
 - More than **8** years in IT
 - With a background in
   - 🧪 testing
